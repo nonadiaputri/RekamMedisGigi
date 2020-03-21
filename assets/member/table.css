@@ -1,0 +1,23 @@
+#tab1 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#tab1 td, #tab1 th {
+    border: 1px solid #ddd;
+    padding: 1px;
+}
+
+#tab1 tr:nth-child(even){background-color: #f2f2f2;}
+
+#tab1 tr:hover {background-color: #ddd;}
+
+#tab1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #2db2b5;
+    color: white;
+}
+.gigi { width: 10%; }
